@@ -593,6 +593,8 @@ a {
         background-position: 50% 20%;
         background-color: #ffff;
         height: 100vh;
+        display: flex;
+        align-items: center;
     }
 
     .offer-section {
