@@ -607,10 +607,7 @@ a {
     .footer-section {
         padding: 20px;
         background-color: #191A19;
-        height: 100vh;
-        display: flex;
-        align-items: center;
-        justify-content: center;
+        
     }
 
     .buy_btn button {
