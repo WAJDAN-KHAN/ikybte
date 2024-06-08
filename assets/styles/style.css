@@ -592,6 +592,7 @@ a {
         background-repeat: no-repeat;
         background-position: 50% 20%;
         background-color: #ffff;
+        height: 100vh;
     }
 
     .offer-section {
