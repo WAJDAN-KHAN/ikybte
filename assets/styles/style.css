@@ -219,7 +219,9 @@ body {
     font-family: 'Poppins', sans-serif;
 
 }
-
+html {
+    scroll-behavior: smooth;
+}
 .imggg img {
     width: 477px;
     height: auto;
@@ -229,7 +231,7 @@ body {
 .reviews-section {
     padding: 40px;
     background-image: url('../images/forth-section.png');
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 20%;
     background-color: #ffff;
